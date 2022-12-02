@@ -1,4 +1,4 @@
-package code009.src;
+package code009;
 
 public class BitShift {
     public static void main(String[] args) {

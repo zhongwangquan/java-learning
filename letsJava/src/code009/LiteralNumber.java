@@ -1,4 +1,4 @@
-package code009.src;
+package code009;
 
 public class LiteralNumber {
     public static void main(String[] args) {
